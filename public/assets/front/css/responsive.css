@@ -1,0 +1,176 @@
+@media (max-width: 1366px) {}
+@media (max-width: 1199px) {
+	.sectionTitle {font-size: 40px;}
+	.testimonialText {font-size: 22px;}
+	.mapCountBox h3 {font-size: 50px;}
+	.labelTitle {font-size: 18px;}
+
+	.rwd-table th, .rwd-table td {padding: 20px 10px 20px 10px !important;}
+
+	.submittedDocTable button.btn {min-width: 100px;}
+
+	.rwd-table tr td:nth-child(2),
+	.rwd-table tr td:nth-child(3),
+	.rwd-table tr td:nth-child(4){width: auto; margin: 0; align-items: center;}
+	.sectorTime {font-size: 15px; white-space: nowrap;}
+	.sectorDate {font-size: 12px;}
+
+	.sectors2 h2 {font-size: 16px;}
+
+	.approved,
+	.waiting,
+	.rejected {font-size: 15px; font-weight: 500;}
+
+	.sectorsBox .sectors1 {margin-right: 10px; width: 30px;}
+	.payfeesRow{flex-wrap: wrap;}
+	.payfeesRow .seachbox{width: 100%;}
+
+	.ptb40 {padding-bottom: 60px;}
+
+}
+@media (max-width: 1024px) {}
+@media (max-width: 991px) {
+	header .navbar{padding-left: 0;}
+	header .navbar-brand{position: relative; padding: 10px 0; width: auto;}
+	header .navbar-brand img{height: 40px;}
+	
+	header{height: auto;}
+	.sticky150 {padding-top: 109px;}
+	
+	.navbar-expand-lg .navbar-nav .nav-link {font-size: 14px; padding: 12px 0px;}
+	.navbar-expand-lg .navbar-nav .nav-item:last-child {margin-bottom: 15px;}
+
+	.topHead {padding-top: 8px; padding-bottom: 8px;}
+	.topHead a {min-width: 100px;}
+
+
+	.sectionTitle {font-size: 30px;}
+	.sectionSubtitle {font-size: 16px;}
+
+	.sectionTitle3 {font-size: 30px;}
+
+	.mapCountBox h3 {font-size: 40px;}
+	.mapCountBox h6 {font-size: 20px;}
+	.testimonialText {font-size: 20px;}
+
+	.ftrTop {margin-bottom: 40px;}
+	.footerLast{margin-top: 40px;}
+
+	.socialLinks a {width: 45px; height: 45px; line-height: 45px; font-size: 16px;}
+
+	.ftrTop .newsBTN {font-size: 16px; padding: 14px 25px; border-radius: 5px;}
+	
+	.ptb50 {padding: 80px 0px;}
+	
+	.myaccount {font-size: 13px;}
+	.usericon {margin-right: 10px; width: 34px;}
+
+	.h1 {font-size: 30px;}
+
+	.boxCol .textCol {padding: 20px;}
+	.boxCol .textCol h4 {font-size: 18px; margin-bottom: 10px;}
+	.boxCol .textCol a {margin-top: 0px;}
+
+	.minHeightFull {min-height: calc(100vh - 150px);}
+
+	.payfeesSection {padding-left: 0px;}
+
+}
+
+@media (max-width: 860px) {}
+@media (max-width:768px) {}
+@media (max-width: 767px) {
+	.ptb50 {padding: 60px 0px;}
+
+	.h1{font-size: 26px;}
+
+	h2,
+	.sectionTitle3 {font-size: 26px;}
+
+	.sectionTitle,
+	.h3 {font-size: 26px;}
+
+	.mapCountBox h3 {font-size: 30px;}
+	.mapCountBox h6 {font-size: 18px;}
+
+	.testimonialText {font-size: 18px;}
+
+	.ftrLogo{text-align: center;}
+	.ftrLogo img{max-width: 120px; margin-bottom: 20px;}
+	.ftrBottom {flex-wrap: wrap; flex-flow: row-reverse; flex-direction: column-reverse;}
+	.ftrBottom .copyright{margin-top: 5px;}
+	.ftrBottom .copyright,
+	.ftrBottom .ftrLinks{width: 100%; min-width: 100%; text-align: center;}
+	.ftrBottom .ftrLinks li{float: unset; display: inline-block; margin: 5px;}
+
+	.drop .drop-display .item {font-size: 13px; padding: 0px 40px 0px 10px; height: 30px; line-height: 30px;}
+	.drop .drop-display .item .btnclose {font-size: 13px; height: 30px; width: 30px;}
+	.drop .drop-display {font-size: 14px; min-height: 52px;}
+	.drop .drop-display:after {top: 7px;}
+	.choseFileFiled .lebelBtn{font-size: 14px;}
+	.choseFileFiled .fileText{font-size: 13px;}
+	.choseFileFiled .fileText img {margin-right: 10px; height: 30px;}
+
+	.h4 {font-size: 20px;}
+
+	.checkCol {max-width: 100%;}
+	.boxCol {margin: 15px 0px;}
+	.pdfConfirm .pdficon {max-width: 60px; margin: 0 auto 30px;}
+	.pdfConfirm .greenText {font-size: 16px;}
+	.pdfConfirm p {font-size: 14px;}
+	a.btn.btnBorderRed.mt80 {margin-top: 40px;}
+
+	.logo_Col img {max-width: 180px;}
+
+	.minHeightFull_41 {min-height: calc(100vh - 74px);}
+
+
+	.submittedDocTable{}
+	.submittedDocTable tbody tr:first-child{display: none;}
+	.rwd-table tr{display: flex; flex-wrap: wrap; padding: 15px 0px;}	
+	.rwd-table tr td{width: 100%; min-width: 100%; margin: 0;}	
+	.rwd-table td {padding: 8px 15px !important;}
+	.rwd-table tr td:nth-child(4){padding-left: 15px !important;}
+
+	.rwd-table tr td:nth-child(2){flex-wrap: wrap;}
+
+	.rwd-table td:before{font-weight: 500; font-size: 14px; margin-bottom: 5px;}
+
+
+}
+@media (max-width: 575px) {
+	.topHead{padding: 8px 0px;}
+
+	.globalSection {background-position: bottom center; background-size: 75%; padding-bottom: 40% !important;}
+
+	.btn {font-size: 16px; padding: 16px 25px;}
+
+	h2,
+	.sectionTitle3 {font-size: 22px; margin-bottom: 20px;}
+
+	.sectionTitle {font-size: 22px; margin-bottom: 20px;}
+	.testimonialText {font-size: 16px;}
+
+	.banner_about {height: 150px; display: flex;}
+	.banner_about img {object-fit: cover; object-position: left;}
+	.banner_about .desk_Img{display: none;}
+	.banner_about .mobil_Img{display: block;}
+
+	.ftrTop{flex-wrap: wrap; justify-content: center;}
+	.ftrTop .newsBTN{margin-top: 15px;}
+	.ftrTop .socialLinks{width: 100%; text-align: center;}
+	.ftrTop .socialLinks a{margin: 5px;}
+
+	.labelTitle {
+    font-size: 20px;
+}
+
+
+}
+@media (max-width: 480px) {
+
+	.minHeightFull_41 {min-height: calc(100vh - 105px);}
+}
+@media (max-width: 375px) {
+	
+}
